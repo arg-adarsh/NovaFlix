@@ -1,4 +1,4 @@
-DEMO LINK : https://netflix-clone-f9919.web.app
+LIVE DEMO : https://netflix-clone-f9919.web.app
 
 ![Screenshot from 2023-07-18 15-08-06](https://github.com/arg-adarsh/netflix-clone/assets/86367494/57a05cac-72e7-4070-a1d8-a942ec3012eb)
 
