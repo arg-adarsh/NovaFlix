@@ -1,6 +1,10 @@
-# Getting Started with Create React App and Redux
+## Initialize project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+to Initialize this project you can run: ### `npm install`
+
+After intalling add your api key from The Movie DP api in file src/Requests.js
+
+And Also add firebaseConfig script from firebase in file src/firebase.jsx
 
 ## Available Scripts
 
