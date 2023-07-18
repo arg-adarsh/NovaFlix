@@ -7,6 +7,7 @@ const LoginScreen = () => {
   const [isSignIN, setIsSignIN] = useState(true);
   return (
     <div className="loginScreen">
+      <div className="loginScreen-gradiant" />
       <div className="loginScreen-topbar">
         <img
           className="loginScreen-logo"
@@ -25,13 +26,12 @@ const LoginScreen = () => {
           </button>
         )}
       </div>
-      <div className="loginScreen-gradiant" />
 
-      <div className="loginscreen-body">
-        {signIn ? (
-          <SignIn sign={isSignIN} />
-        ) : (
-          <>
+      {signIn ? (
+        <SignIn sign={isSignIN} />
+      ) : (
+        <>
+          <div className="loginscreen-body">
             <h1>Unlimited movies, TV shows and more</h1>
             <h2>Watch anywhere. Cancel anytime.</h2>
             <h3>
@@ -51,9 +51,9 @@ const LoginScreen = () => {
                 </button>
               </form>
             </div>
-          </>
-        )}
-      </div>
+          </div>
+        </>
+      )}
     </div>
   );
 };

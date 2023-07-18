@@ -19,6 +19,7 @@ const Banner = ({ movie }) => {
         backgroundImage: `url("https://image.tmdb.org/t/p/original/${movie?.backdrop_path}")`,
       }}
     >
+      <div className="banner-fade-button" />
       <div className="banner-contents">
         <h1 className="banner-title">
           {movie?.name || movie?.title || movie?.original_name}
@@ -42,7 +43,6 @@ const Banner = ({ movie }) => {
           </span>
         </h1>
       </div>
-      <div className="banner-fade-button" />
     </header>
   );
 };

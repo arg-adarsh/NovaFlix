@@ -4,8 +4,6 @@
 }
 
 .profileScreen-body {
-  /* display: flex;
-    flex-direction: column; */
   width: 40%;
   margin-left: auto;
   margin-right: auto;
@@ -62,4 +60,12 @@
 .profileScreen-plans > h3 {
   border-bottom: 1px solid #282c2d;
   padding-bottom: 10px;
+}
+
+@media (max-width: 1000px) {
+  .profileScreen-body {
+    width: 90%;
+    padding-top: 40%;
+    max-width: fit-content;
+  }
 }
