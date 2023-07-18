@@ -1,10 +1,10 @@
 ## Initialize project
 
-to Initialize this project you can run: ### `npm install`
+to Initialize this project you can run: `npm install`
 
 After intalling add your api key from The Movie DP api in file src/Requests.js
 
-And Also add firebaseConfig script from firebase in file src/firebase.jsx
+And Also add firebaseConfig script from firebase in file src/firebase.jsx and start authentication option in firebase
 
 ## Available Scripts
 
