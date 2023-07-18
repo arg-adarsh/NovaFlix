@@ -1,16 +1,21 @@
 DEMO LINK : https://netflix-clone-f9919.web.app
 
-![Screenshot from 2023-07-18 15-08-06](https://github.com/arg-adarsh/netflix-clone/assets/86367494/f04ca18d-8a43-41a5-b92a-3601019b5c70)
+![Screenshot from 2023-07-18 15-08-06](https://github.com/arg-adarsh/netflix-clone/assets/86367494/57a05cac-72e7-4070-a1d8-a942ec3012eb)
 
-![Screenshot from 2023-07-18 15-08-16](https://github.com/arg-adarsh/netflix-clone/assets/86367494/0427dcc9-4117-4862-9c5e-4ab39a69c943)
 
-![Screenshot from 2023-07-18 15-08-40](https://github.com/arg-adarsh/netflix-clone/assets/86367494/0a57b4d3-6d18-4f9b-8b63-6394c78e2242)
+![Screenshot from 2023-07-18 15-08-16](https://github.com/arg-adarsh/netflix-clone/assets/86367494/b72e7c8a-2928-4d2f-9187-771996961c1e)
 
-![Screenshot from 2023-07-18 15-09-45](https://github.com/arg-adarsh/netflix-clone/assets/86367494/551ff147-97ce-4941-a8a6-a166b5caa78d)
 
-![Screenshot from 2023-07-18 15-10-11](https://github.com/arg-adarsh/netflix-clone/assets/86367494/8d86a35f-2bad-47d2-9d88-811652ebc553)
+![Screenshot from 2023-07-18 15-08-40](https://github.com/arg-adarsh/netflix-clone/assets/86367494/2e1c4e6a-f626-45e9-98cb-5bf5b2f25b22)
 
-![Screenshot from 2023-07](https://github.com/arg-adarsh/netflix-clone/assets/86367494/6e14f414-bf4c-42a6-be59-edd36422e302)
+
+![Screenshot from 2023-07-18 15-09-45](https://github.com/arg-adarsh/netflix-clone/assets/86367494/d3897d25-1fb0-4919-a281-95e5b0ddbf87)
+
+
+![Screenshot from 2023-07-18 15-10-11](https://github.com/arg-adarsh/netflix-clone/assets/86367494/8d5ebf76-678c-4c06-8206-68f83f239780)
+
+
+![Screenshot from 2023-07](https://github.com/arg-adarsh/netflix-clone/assets/86367494/5d904afd-7601-4eca-90f9-0300038dd419)
 
 
 ## Initialize project
