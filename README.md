@@ -1,3 +1,16 @@
+![Screenshot from 2023-07-18 15-08-06](https://github.com/arg-adarsh/netflix-clone/assets/86367494/f04ca18d-8a43-41a5-b92a-3601019b5c70)
+
+![Screenshot from 2023-07-18 15-08-16](https://github.com/arg-adarsh/netflix-clone/assets/86367494/0427dcc9-4117-4862-9c5e-4ab39a69c943)
+
+![Screenshot from 2023-07-18 15-08-40](https://github.com/arg-adarsh/netflix-clone/assets/86367494/0a57b4d3-6d18-4f9b-8b63-6394c78e2242)
+
+![Screenshot from 2023-07-18 15-09-45](https://github.com/arg-adarsh/netflix-clone/assets/86367494/551ff147-97ce-4941-a8a6-a166b5caa78d)
+
+![Screenshot from 2023-07-18 15-10-11](https://github.com/arg-adarsh/netflix-clone/assets/86367494/8d86a35f-2bad-47d2-9d88-811652ebc553)
+
+![Screenshot from 2023-07](https://github.com/arg-adarsh/netflix-clone/assets/86367494/6e14f414-bf4c-42a6-be59-edd36422e302)
+
+
 ## Initialize project
 
 to Initialize this project you can run: `npm install`
