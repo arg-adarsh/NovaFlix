@@ -1,4 +1,4 @@
-const API_KEY = "02fea3f426fd2a099f91904987155bba";
+// const API_KEY = ;  use your api key from The Movie DB api
 
 const requests = {
   fetchTrending: `/trending/all/week?api_key=${API_KEY}&language=en-US`,
