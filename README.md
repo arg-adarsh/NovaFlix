@@ -1,6 +1,30 @@
-# Getting Started with Create React App and Redux
+DEMO LINK : https://netflix-clone-f9919.web.app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+![Screenshot from 2023-07-18 15-08-06](https://github.com/arg-adarsh/netflix-clone/assets/86367494/57a05cac-72e7-4070-a1d8-a942ec3012eb)
+
+
+![Screenshot from 2023-07-18 15-08-16](https://github.com/arg-adarsh/netflix-clone/assets/86367494/b72e7c8a-2928-4d2f-9187-771996961c1e)
+
+
+![Screenshot from 2023-07-18 15-08-40](https://github.com/arg-adarsh/netflix-clone/assets/86367494/2e1c4e6a-f626-45e9-98cb-5bf5b2f25b22)
+
+
+![Screenshot from 2023-07-18 15-09-45](https://github.com/arg-adarsh/netflix-clone/assets/86367494/d3897d25-1fb0-4919-a281-95e5b0ddbf87)
+
+
+![Screenshot from 2023-07-18 15-10-11](https://github.com/arg-adarsh/netflix-clone/assets/86367494/8d5ebf76-678c-4c06-8206-68f83f239780)
+
+
+![Screenshot from 2023-07](https://github.com/arg-adarsh/netflix-clone/assets/86367494/5d904afd-7601-4eca-90f9-0300038dd419)
+
+
+## Initialize project
+
+to Initialize this project you can run: `npm install`
+
+After intalling add your api key from The Movie DP api in file src/Requests.js
+
+And Also add firebaseConfig script from firebase in file src/firebase.jsx and start authentication option in firebase
 
 ## Available Scripts
 
