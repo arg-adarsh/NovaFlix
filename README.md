@@ -1,4 +1,4 @@
-LIVE DEMO : https://netflix-clone-f9919.web.app
+LIVE DEMO : https://novaflixo.web.app/
 
 ![Screenshot from 2023-07-18 15-08-06](https://github.com/arg-adarsh/netflix-clone/assets/86367494/57a05cac-72e7-4070-a1d8-a942ec3012eb)
 
@@ -24,7 +24,7 @@ to Initialize this project you can run: `npm install`
 
 After intalling add your api key from The Movie DP api in file src/Requests.js
 
-And Also add firebaseConfig script from firebase in file src/firebase.jsx and start authentication option in firebase
+And Also add firebase SDK config script from firebase in file src/firebase.jsx and start authentication option in firebase
 
 ## Available Scripts
 
